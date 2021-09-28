@@ -19,7 +19,7 @@ Add this requirement to your `composer.json` file and run `composer.phar install
 
     {
         "require": {
-            "hautelook/phpass": "dev-master"
+            "bonnier/phpass": "dev-master"
         }
     }
 
